@@ -1,0 +1,5 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore your environment variable settings file
+env.py
